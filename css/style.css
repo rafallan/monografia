@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #90EE90;
+}
+
+#conteudo{
+	padding: 5px;
+}
+
+#gerencia{
+	padding: 5px;
+}
+
+#login{
+
+	margin-top: 10%;	
+}
+
+#login h3{
+	text-align: center;
+	background: #337AB7;
+	color: white;
+}
+
+.login{
+	background: white;
+	padding: 30px;
+}
+
+#link_paginacao{
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 40px;
+}
+.sair{
+	margin-right: 20px !important;
+}
+
